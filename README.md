@@ -7,7 +7,7 @@ Getback your linux autoremove packages
 ## Requirements
 
 * php5-cli: open your terminal and type sudo `apt-get install php5-cli` for installing php5-cli
-* Download the zipfile from the [releases](https://github.com/codex8/getback/).
+* Download the zipfile from the [releases](https://github.com/codex8/getback/archive/master.zip).
 
 
 
