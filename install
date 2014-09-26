@@ -1,0 +1,2 @@
+cp -r lib /bin
+cp getback /bin
