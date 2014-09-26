@@ -15,7 +15,7 @@ Getback your linux autoremove packages
 * Run getback
 * **open terminal** go to your betback folder by typing cd getback.
 * **type ls** You will see lib getback LICENSE README.md. 
-* type `./install` for install getback in your system and `./uninstall` for remove getback on your system
+* type `./install` for install getback in your system and `./uninstall` for remove getback from your system
 
 ##Usage
 * open /var/log/apt/history.log and find autoremove line with date.
