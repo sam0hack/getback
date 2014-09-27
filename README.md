@@ -2,6 +2,7 @@ getback
 =======
 
 Getback your linux autoremove packages 
+http://codex8.github.io/getback. 
 
 
 ## Requirements
@@ -29,6 +30,6 @@ Developer
 ==========
 ##Sameer beg
 
-* MyWebsite (http://ilmtechlab.com) 
+* Official Website (http://ilmtechlab.com) 
 
 
