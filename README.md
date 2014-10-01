@@ -2,6 +2,7 @@ getback
 =======
 
 Getback your linux autoremove packages 
+http://codex8.github.io/getback. 
 
 
 ## Requirements
@@ -27,9 +28,17 @@ Getback your linux autoremove packages
 
 About
 ==========
+<<<<<<< HEAD
 Getback version 2
 Copyright (C) 2014 Ilm tech lab , (http://ilmtechlab.com/).
 License GNU GENERAL PUBLIC LICENSE  <http://fsf.org/>
 This is free software: you are free to change and redistribute it.
 There is NO WARRANTY, to the extent permitted by law.
 Get Update from GITHUB (https://github.com/codex8/getback/).
+=======
+##Sameer beg
+
+* Official Website (http://ilmtechlab.com) 
+
+
+>>>>>>> eaf9805f3138fbe61b9e87fe55c49119a0f74366
