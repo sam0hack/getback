@@ -28,7 +28,7 @@ http://codex8.github.io/getback.
 
 About
 ==========
-<<<<<<< HEAD
+
 Getback version 2
 Copyright (C) 2014 Ilm tech lab , (http://ilmtechlab.com/).
 License GNU GENERAL PUBLIC LICENSE  <http://fsf.org/>
