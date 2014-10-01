@@ -1,2 +1,2 @@
 rm /bin/getback
-rm -r /bin/lib
+rm -r /bin/GetBack

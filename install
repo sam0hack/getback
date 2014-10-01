@@ -1,2 +1,2 @@
-cp -r lib /bin
+cp -r GetBack /bin
 cp getback /bin
