@@ -36,9 +36,3 @@ About
 * There is NO WARRANTY, to the extent permitted by law.
 * Get Update from GITHUB (https://github.com/codex8/getback/).
 
- 
-=======
-##Sameer beg
-
-* Official Website (http://ilmtechlab.com) 
-
