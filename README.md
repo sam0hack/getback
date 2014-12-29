@@ -7,7 +7,7 @@ http://codex8.github.io/getback.
 
 ## Requirements
 
-* php5-cli: open your terminal and type sudo `apt-get install php5-cli` for installing php5-cli
+* php5-cli: open your terminal and type sudo `apt-get install php5-cli` .
 * Download the zipfile of Getback from the [releases](https://github.com/codex8/getback/archive/master.zip).
 
 
@@ -23,7 +23,7 @@ http://codex8.github.io/getback.
 * Softwate will auto select history.log  
 * after locate your packages terminal need confirmation y/n
 * Enter architecture amd64 or x86 or i386
-* After enter architecture. Software will start installing you removed packages
+* After enter architecture. Software will start installing your removed packages
 
 
 About
