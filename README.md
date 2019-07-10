@@ -1,3 +1,6 @@
+# Discountinued Not managing anymore
+This was good project but unfortunatily i don't have enough time to manage this anymore.
+
 getback
 =======
 
